@@ -86,7 +86,7 @@
 #define FINGERPRINT_LED_GRADUAL_OFF 0x06 //!< Gradually off
 #define FINGERPRINT_LED_RED 0x01         //!< Red LED
 #define FINGERPRINT_LED_BLUE 0x02        //!< Blue LED
-#define FINGERPRINT_LED_PURPLE 0x03      //!< Purple LED
+#define FINGERPRINT_LED_GREEN 0x03      //!< Green LED
 
 //#define FINGERPRINT_DEBUG
 
